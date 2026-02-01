@@ -1,0 +1,3 @@
+{"problem": "sorting", "algorithm": "bubble", "n": 5000, "time": 1.010246999998344, "correct": true}
+{"problem": "sorting", "algorithm": "quicksort", "n": 5000, "time": 0.00773389998357743, "correct": true}
+{"problem": "sorting", "algorithm": "timsort", "n": 5000, "time": 0.0008265000069513917, "correct": true}
